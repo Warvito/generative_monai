@@ -1,4 +1,4 @@
-# Official implementation for Generative AI for Medical Imaging: extending the MONAI Framework
+# Generative AI for Medical Imaging: extending the MONAI Framework
 
 List of projects used for the "Generative AI for Medical Imaging: extending the MONAI Framework" paper.
 
